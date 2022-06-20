@@ -3,13 +3,13 @@ mkdir -p ./pbr
 cd ./pbr
 
 # AS4809 BGP
-wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/soffchen/GeoIP2-CN/release/CN-ip-cidr.txt
+wget --no-check-certificate -c -O CN.txt https://cdn.jsdelivr.net/gh/misakaio/chnroutes2@master/chnroutes.txt
 
 {
 echo "/ip firewall address-list"
 
 for net in $(cat CN.txt) ; do
-  echo "add list=dpbr-CT address=$net"
+  echo "add list=CN address=$net comment=AS4809"
 done
 
 } > ../CN.rsc

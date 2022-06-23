@@ -1,6 +1,6 @@
 大陆白名单路由规则
 
-ip段信息取自 [https://ispip.clang.cn](https://github.com/misakaio/chnroutes2)
+ip段信息取自 [chnroutes2](https://github.com/misakaio/chnroutes2)
 
 由Github Action自动构建于此。
 

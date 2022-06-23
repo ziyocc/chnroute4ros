@@ -14,8 +14,6 @@ jobs:
 
     - name: download cidr
       run: |
-        wget --no-check-certificate -cqO- http://ftp.apnic.net/apnic/stats/apnic/delegated-apnic-latest | grep "apnic|CN|ipv4|" | awk -F'|' '{print $4"/"32-log($5)/log(2)}' >IPchnroute
-        sha256sum IPchnroute | awk '{print$1}' >IPchnroute.sha256sum
         chmod +x ros-dpbr.sh
         ./ros-dpbr.sh
         

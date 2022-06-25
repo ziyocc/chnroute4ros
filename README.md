@@ -1,6 +1,6 @@
 大陆白名单路由规则
 
-ip段信息取自 [chnroutes2](https://github.com/misakaio/chnroutes2)
+ip段信息取自 [china-ip-list](https://github.com/mayaxcn/china-ip-list)
 
 由Github Action自动构建于此。
 

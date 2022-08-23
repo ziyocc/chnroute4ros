@@ -2173,6 +2173,7 @@ add list=CN address=103.28.184.0/22 comment=AS4809
 add list=CN address=103.28.204.0/22 comment=AS4809
 add list=CN address=103.28.212.0/22 comment=AS4809
 add list=CN address=103.29.16.0/22 comment=AS4809
+add list=CN address=103.29.29.0/24 comment=AS4809
 add list=CN address=103.29.128.0/22 comment=AS4809
 add list=CN address=103.29.132.0/22 comment=AS4809
 add list=CN address=103.29.136.0/22 comment=AS4809

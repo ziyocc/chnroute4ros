@@ -1,7 +1,6 @@
 大陆白名单路由规则
 
-ip段信息取自 [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)
-
+ip段信息取自 [clang.cn](https://ispip.clang.cn/all_cn_cidr.txt)
 由Github Action自动构建于此。
 
 策略路由分流的实现方法：

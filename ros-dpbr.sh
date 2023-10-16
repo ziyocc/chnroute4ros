@@ -3,7 +3,7 @@ mkdir -p ./pbr
 cd ./pbr
 
 # AS4809 BGP
-wget --no-check-certificate -c -O CN.txt https://ispip.clang.cn/all_cn_cidr.txt
+wget --no-check-certificate -c -O CN.txt https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 
 {
 echo "/ip firewall address-list"

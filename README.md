@@ -1,6 +1,6 @@
 大陆白名单路由规则
 
-ip段信息取自 [clang.cn](https://ispip.clang.cn/all_cn_cidr.txt)
+ip段信息取自 [misakaio](https://github.com/misakaio/chnroutes2)
 由Github Action自动构建于此。
 
 策略路由分流的实现方法：
@@ -16,3 +16,5 @@ ip段信息取自 [clang.cn](https://ispip.clang.cn/all_cn_cidr.txt)
 ```
 
 用于Firewall - mangle页，通过dst-addrss= 引用
+
+comment 名称仅作为 ROS 脚本引用，无任何实际意义可根据需要自行更改

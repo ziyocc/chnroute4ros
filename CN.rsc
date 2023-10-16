@@ -1,6 +1,6 @@
 /ip firewall address-list
 add list=CN address=# comment=AS4809
-add list=CN address=14127650 comment=AS4809
+add list=CN address=14119660 comment=AS4809
 add list=CN address=routes comment=AS4809
 add list=CN address=were comment=AS4809
 add list=CN address=dumped comment=AS4809
@@ -10,7 +10,7 @@ add list=CN address=at comment=AS4809
 add list=CN address=Mon comment=AS4809
 add list=CN address=Oct comment=AS4809
 add list=CN address=16 comment=AS4809
-add list=CN address=22:00:03 comment=AS4809
+add list=CN address=23:00:02 comment=AS4809
 add list=CN address=UTC comment=AS4809
 add list=CN address=2023. comment=AS4809
 add list=CN address=# comment=AS4809

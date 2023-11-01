@@ -915,12 +915,8 @@ add list=CN address=103.97.60.0/24 comment=AS4809
 add list=CN address=103.97.112.0/24 comment=AS4809
 add list=CN address=103.98.0.0/24 comment=AS4809
 add list=CN address=103.98.44.0/22 comment=AS4809
-add list=CN address=103.98.125.0/24 comment=AS4809
-add list=CN address=103.98.127.0/24 comment=AS4809
 add list=CN address=103.98.168.0/22 comment=AS4809
 add list=CN address=103.98.220.0/22 comment=AS4809
-add list=CN address=103.98.248.0/23 comment=AS4809
-add list=CN address=103.98.252.0/22 comment=AS4809
 add list=CN address=103.99.152.0/22 comment=AS4809
 add list=CN address=103.100.64.0/22 comment=AS4809
 add list=CN address=103.101.124.0/23 comment=AS4809

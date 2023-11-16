@@ -3034,6 +3034,7 @@ add list=CN address=211.102.80.0/20 comment=AS4809
 add list=CN address=211.102.128.0/18 comment=AS4809
 add list=CN address=211.102.192.0/23 comment=AS4809
 add list=CN address=211.102.208.0/20 comment=AS4809
+add list=CN address=211.102.240.0/22 comment=AS4809
 add list=CN address=211.103.0.0/16 comment=AS4809
 add list=CN address=211.136.0.0/13 comment=AS4809
 add list=CN address=211.144.9.0/24 comment=AS4809

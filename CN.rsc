@@ -1693,8 +1693,7 @@ add list=CN address=117.80.0.0/12 comment=AS4809
 add list=CN address=117.100.128.0/17 comment=AS4809
 add list=CN address=117.106.0.0/15 comment=AS4809
 add list=CN address=117.112.0.0/13 comment=AS4809
-add list=CN address=117.121.0.0/18 comment=AS4809
-add list=CN address=117.121.96.0/20 comment=AS4809
+add list=CN address=117.121.0.0/17 comment=AS4809
 add list=CN address=117.121.128.0/18 comment=AS4809
 add list=CN address=117.122.128.0/17 comment=AS4809
 add list=CN address=117.124.0.0/14 comment=AS4809

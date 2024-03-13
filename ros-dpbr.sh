@@ -9,8 +9,8 @@ wget --no-check-certificate -c -O CNIP.txt https://raw.githubusercontent.com/may
 {
 echo "/ip firewall address-list"
 
-for net in $(cat CN.txt) ; do
-  echo "add list=CN address=$net comment=AS4809"
+for net in $(cat CNIP.txt) ; do
+  echo "add list=CNIP address=$net comment=AS4809"
 done
 
 } > ../CNIP.rsc

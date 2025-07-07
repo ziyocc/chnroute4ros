@@ -6346,6 +6346,7 @@ add list=CNIP address=165.101.4.0/23 comment=AS4809
 add list=CNIP address=165.101.66.0/23 comment=AS4809
 add list=CNIP address=165.101.70.0/23 comment=AS4809
 add list=CNIP address=165.101.122.0/23 comment=AS4809
+add list=CNIP address=165.101.144.0/23 comment=AS4809
 add list=CNIP address=166.111.0.0/16 comment=AS4809
 add list=CNIP address=167.139.0.0/16 comment=AS4809
 add list=CNIP address=167.189.0.0/16 comment=AS4809
